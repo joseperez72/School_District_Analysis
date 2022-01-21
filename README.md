@@ -61,6 +61,5 @@ Thomas High School is a charter school, so we see that there was even smaller ch
 ![school_type_new](images/school_type_new.png)
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 After ommitting the reading and math scores for the 9th grade class of Thomas High School, we see that there is a major change in percentages in the school level. When the school data is aggragated in the school size data frame, we still see some change in the metrics, but it is not as noticeable at the school level. When we aggregate the data in the school type, we see very little change in the metrics. We see that the difference is in the hundreths and thousandth's place. In the overall district summary, the changes in metrics is negligible and does not really affect the metrics.
